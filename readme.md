@@ -1,4 +1,4 @@
-![logo](https://www.github.com/wovo/bmptk-examples/image.jpg)
+!(logo.jpg)
 
 # Simple bmptk example projects, grouped by target.
 
