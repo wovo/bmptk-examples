@@ -1,4 +1,4 @@
-!(logo.jpg)
+!(logo.png)
 
 # Simple bmptk example projects, grouped by target.
 
