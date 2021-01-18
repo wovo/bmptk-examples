@@ -10,8 +10,4 @@
 //
 // ==========================================================================
 
-#include "hwlib.hpp"
-
-void test(){
-   hwlib::cout << "Test function called\n";
-}
+void test(){ }

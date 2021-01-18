@@ -19,6 +19,9 @@ HEADERS :=
 # other places to look for files for this project
 SEARCH  := 
 
+# don't run a terminal
+RUN_TERMINAL   ?= 
+
 # set RELATIVE to the next higher directory 
 # and defer to the appropriate Makefile.* there
 RELATIVE := ..
